@@ -3,6 +3,8 @@ icon: file-media
 ---
 # Media
 
+Download official **Materiaal** logos and icons for use in media, partnerships, and other communications.
+
 ## Logo
 
 ![|250](/static/media/materiaal-logo.svg)

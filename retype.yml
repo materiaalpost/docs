@@ -12,6 +12,7 @@ branding:
 
 links:
   - text: Instagram
+    icon: materiaal-instagram
     link: https://instagram.com/materiaalpost
 
 theme:
@@ -21,5 +22,8 @@ theme:
     image-rounded: 0.75rem
     header-links-dropdown-offset: -1rem
 
+breadcrumb:
+  home: ":icon-home:" # icon
+  
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; Copyright {{ year }}. Materiaal, Inc. All rights reserved."

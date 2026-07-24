@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="color-scheme" content="light dark">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.7.0-preview.838238330154">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.7.0-preview.838239439221">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 4.7.0-preview">
@@ -44,11 +44,11 @@
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
     <link id="retype-favicon" rel="icon" href="../favicon.ico" />
-    <link href="../resources/css/retype.css?v=4.7.0-preview.838238330154" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=4.7.0-preview.838239439221" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=4.7.0-preview.838238330154" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=4.7.0-preview.838239439221" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../resources/js/retype.js?v=4.7.0-preview" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=4.7.0-preview.838238330154" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=4.7.0-preview.838239439221" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
@@ -65,7 +65,8 @@
                 <div class="flex items-center px-2 md:px-6">
                     <a id="retype-branding-logo" href="https://docs.materiaal.cc/" class="flex items-center leading-snug text-2xl">
                         <span class="grow-0 shrink-0 overflow-hidden">
-                            <img class="max-h-10 md:inline-block" src="../static/media/materiaal-logo.svg" alt="" width="180" height="23">
+                            <img class="max-h-10 dark:hidden md:inline-block" src="../static/media/materiaal-logo.svg" alt="" width="180" height="24">
+                            <img class="max-h-10 hidden dark:inline-block" src="../static/media/materiaal-logo-dark.svg" alt="" width="180" height="24">
                         </span>
                     </a><span id="retype-branding-label" class="inline-flex mt-1 px-2 py-1 ml-4 text-xs font-medium leading-none items-center rounded-md bg-branding-label-bg text-branding-label-text ring-1 ring-branding-label-border ring-inset md:inline-block">Docs</span>
                 </div>
@@ -184,7 +185,7 @@
 <retype-table copy-text="| Medium | Value |
 | --- | --- |
 | Digital | `#FF5F00` |
-| Print | PANTONE Bright Orange C |
+| Print | `PANTONE Bright Orange C` |
 | RGB | `255, 95, 0` |
 | Process approximation | `C0 M63 Y100 K0` |">
 <div class="table-wrapper clean scrollbar overflow-hidden">
@@ -202,7 +203,7 @@
 </tr>
 <tr>
 <td>Print</td>
-<td>PANTONE Bright Orange C</td>
+<td><code translate="no" v-pre>PANTONE Bright Orange C</code></td>
 </tr>
 <tr>
 <td>RGB</td>
@@ -218,7 +219,7 @@
 </retype-table>
 <h2 id="logo">Logo</h2>
 <figure class="content-center">
-    <img src="../static/media/materiaal-logo.svg" alt="" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" width="250" />
+    <img src="../static/media/materiaal-logo.png" alt="" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" width="650" height="236" />
     <figcaption class="caption"></figcaption>
 </figure>
 <p>
@@ -227,18 +228,33 @@
         <span class="inline-flex items-center justify-center leading-none">
             <svg xmlns="http://www.w3.org/2000/svg" class="block shrink-0" width="20" height="20" viewBox="0 0 24 24" role="presentation" fill="currentColor"><path fill="none" d="M0 0h24v24H0z"/><path d="M21 14c-.55 0-1 .45-1 1v4c0 .55-.45 1-1 1H5c-.55 0-1-.45-1-1v-4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 1.65 1.35 3 3 3h14c1.65 0 3-1.35 3-3v-4c0-.55-.45-1-1-1z"/><path d="M11.29 15.71c.09.09.2.17.33.22.12.04.25.07.38.07s.26-.03.38-.08.23-.12.33-.22l5-5a.996.996 0 10-1.41-1.41l-3.3 3.3V3c0-.55-.45-1-1-1s-1 .45-1 1v9.59l-3.29-3.3A.996.996 0 106.3 10.7l4.99 5.01z"/></svg>
         </span>
-        <span class="inline-block font-medium ml-2">Materiaal Logo</span>
+        <span class="inline-block font-medium ml-2">Materiaal logo (light)</span>
     </div>
     <div class="flex items-center text-xs text-gray-400 dark:text-dark-400">
         <span>materiaal-logo.svg</span>
-        <span class="inline-block ml-2">3.64KB</span>
+        <span class="inline-block ml-2">7.37KB</span>
     </div>
     <a href="../static/media/materiaal-logo.svg" class="absolute block inset-0" target="_blank" download="materiaal-logo.svg"></a>
 </div>
 </p>
+<p>
+<div class="mb-6 px-5 py-4 flex justify-between relative border border-base-border hover:border-base-border-hover rounded transition-colors duration-150">
+    <div class="flex items-center text-base-500">
+        <span class="inline-flex items-center justify-center leading-none">
+            <svg xmlns="http://www.w3.org/2000/svg" class="block shrink-0" width="20" height="20" viewBox="0 0 24 24" role="presentation" fill="currentColor"><path fill="none" d="M0 0h24v24H0z"/><path d="M21 14c-.55 0-1 .45-1 1v4c0 .55-.45 1-1 1H5c-.55 0-1-.45-1-1v-4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 1.65 1.35 3 3 3h14c1.65 0 3-1.35 3-3v-4c0-.55-.45-1-1-1z"/><path d="M11.29 15.71c.09.09.2.17.33.22.12.04.25.07.38.07s.26-.03.38-.08.23-.12.33-.22l5-5a.996.996 0 10-1.41-1.41l-3.3 3.3V3c0-.55-.45-1-1-1s-1 .45-1 1v9.59l-3.29-3.3A.996.996 0 106.3 10.7l4.99 5.01z"/></svg>
+        </span>
+        <span class="inline-block font-medium ml-2">Materiaal logo (dark)</span>
+    </div>
+    <div class="flex items-center text-xs text-gray-400 dark:text-dark-400">
+        <span>materiaal-logo-dark.svg</span>
+        <span class="inline-block ml-2">7.37KB</span>
+    </div>
+    <a href="../static/media/materiaal-logo-dark.svg" class="absolute block inset-0" target="_blank" download="materiaal-logo-dark.svg"></a>
+</div>
+</p>
 <h2 id="icon">Icon</h2>
 <figure class="content-center">
-    <img src="../static/media/materiaal-icon.svg" alt="" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" width="250" />
+    <img src="../static/media/materiaal-icon.png" alt="" class="max-w-full h-auto rounded-image-rounded border-image-border border-image-border-width" width="300" height="300" />
     <figcaption class="caption"></figcaption>
 </figure>
 <p>
@@ -247,13 +263,28 @@
         <span class="inline-flex items-center justify-center leading-none">
             <svg xmlns="http://www.w3.org/2000/svg" class="block shrink-0" width="20" height="20" viewBox="0 0 24 24" role="presentation" fill="currentColor"><path fill="none" d="M0 0h24v24H0z"/><path d="M21 14c-.55 0-1 .45-1 1v4c0 .55-.45 1-1 1H5c-.55 0-1-.45-1-1v-4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 1.65 1.35 3 3 3h14c1.65 0 3-1.35 3-3v-4c0-.55-.45-1-1-1z"/><path d="M11.29 15.71c.09.09.2.17.33.22.12.04.25.07.38.07s.26-.03.38-.08.23-.12.33-.22l5-5a.996.996 0 10-1.41-1.41l-3.3 3.3V3c0-.55-.45-1-1-1s-1 .45-1 1v9.59l-3.29-3.3A.996.996 0 106.3 10.7l4.99 5.01z"/></svg>
         </span>
-        <span class="inline-block font-medium ml-2">Materiaal Icon</span>
+        <span class="inline-block font-medium ml-2">Materiaal icon (light)</span>
     </div>
     <div class="flex items-center text-xs text-gray-400 dark:text-dark-400">
         <span>materiaal-icon.svg</span>
         <span class="inline-block ml-2">970B</span>
     </div>
     <a href="../static/media/materiaal-icon.svg" class="absolute block inset-0" target="_blank" download="materiaal-icon.svg"></a>
+</div>
+</p>
+<p>
+<div class="mb-6 px-5 py-4 flex justify-between relative border border-base-border hover:border-base-border-hover rounded transition-colors duration-150">
+    <div class="flex items-center text-base-500">
+        <span class="inline-flex items-center justify-center leading-none">
+            <svg xmlns="http://www.w3.org/2000/svg" class="block shrink-0" width="20" height="20" viewBox="0 0 24 24" role="presentation" fill="currentColor"><path fill="none" d="M0 0h24v24H0z"/><path d="M21 14c-.55 0-1 .45-1 1v4c0 .55-.45 1-1 1H5c-.55 0-1-.45-1-1v-4c0-.55-.45-1-1-1s-1 .45-1 1v4c0 1.65 1.35 3 3 3h14c1.65 0 3-1.35 3-3v-4c0-.55-.45-1-1-1z"/><path d="M11.29 15.71c.09.09.2.17.33.22.12.04.25.07.38.07s.26-.03.38-.08.23-.12.33-.22l5-5a.996.996 0 10-1.41-1.41l-3.3 3.3V3c0-.55-.45-1-1-1s-1 .45-1 1v9.59l-3.29-3.3A.996.996 0 106.3 10.7l4.99 5.01z"/></svg>
+        </span>
+        <span class="inline-block font-medium ml-2">Materiaal icon (dark)</span>
+    </div>
+    <div class="flex items-center text-xs text-gray-400 dark:text-dark-400">
+        <span>materiaal-icon-dark.svg</span>
+        <span class="inline-block ml-2">970B</span>
+    </div>
+    <a href="../static/media/materiaal-icon-dark.svg" class="absolute block inset-0" target="_blank" download="materiaal-icon-dark.svg"></a>
 </div>
 </p>
 

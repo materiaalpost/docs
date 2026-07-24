@@ -24,6 +24,9 @@ theme:
 
 breadcrumb:
   home: ":icon-home:" # icon
+
+generator:
+  paths: root
   
 footer:
   copyright: "&copy; Copyright {{ year }}. Materiaal, Inc. All rights reserved."

@@ -1,2 +1,5 @@
-# docs
-Materiaal documentation
+---
+label: Welcome
+icon: home
+---
+# Materiaal

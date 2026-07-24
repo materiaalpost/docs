@@ -1,0 +1,25 @@
+input: .
+output: .retype
+
+url: docs.materiaal.cc
+
+start:
+  pro: true
+
+branding:
+  label: Docs
+  logo: /static/media/materiaal-logo.svg
+
+links:
+  - text: Instagram
+    link: https://instagram.com/materiaalpost
+
+theme:
+  base:
+    base-link-weight: 500
+    nav-item-text-active-weight: 700
+    image-rounded: 0.75rem
+    header-links-dropdown-offset: -1rem
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."

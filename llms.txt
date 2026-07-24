@@ -1,4 +1,6 @@
 ﻿# Materiaal
 
+> This documentation will grow alongside Materiaal. For now, it provides a simple home for essential information and official brand assets.
+
 - [Materiaal](https://docs.materiaal.cc/readme.md): Materiaal
-- [Media](https://docs.materiaal.cc/media.md): Materiaal Logo
+- [Media](https://docs.materiaal.cc/media.md): Download official Materiaal logos and icons for use in media, partnerships, and other communications.

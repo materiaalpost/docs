@@ -25,9 +25,9 @@ Download official **Materiaal** logos and icons for use in media, partnerships, 
 
 [!file Materiaal logo (dark)](/static/media/materiaal-logo-dark.svg)
 
-[!file Materiaal logo (light, transparent background)](/static/media/materiaal-logo-white-transparent.svg)
+[!file Materiaal logo (white, transparent background)](/static/media/materiaal-logo-white-transparent.svg)
 
-[!file Materiaal logo (dark, transparent background)](/static/media/materiaal-logo-black-transparent.svg)
+[!file Materiaal logo (black, transparent background)](/static/media/materiaal-logo-black-transparent.svg)
 
 ## Icon
 

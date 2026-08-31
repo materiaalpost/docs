@@ -11,6 +11,9 @@ branding:
   logo: /static/media/materiaal-logo.svg
 
 links:
+  - text: Website
+    icon: globe
+    link: https://materiaal.cc
   - text: Instagram
     icon: materiaal-instagram
     link: https://instagram.com/materiaalpost
@@ -21,6 +24,7 @@ theme:
     nav-item-text-active-weight: 700
     image-rounded: 0.75rem
     header-links-dropdown-offset: -1rem
+    base-color: "#FF5F00"
 
 breadcrumb:
   home: ":icon-home:" # icon

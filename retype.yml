@@ -24,7 +24,7 @@ theme:
     nav-item-text-active-weight: 700
     image-rounded: 0.75rem
     header-links-dropdown-offset: -1rem
-    base-color: "#FF5F00"
+    base-color: "#F26B26"
 
 breadcrumb:
   home: ":icon-home:" # icon

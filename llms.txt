@@ -5,3 +5,7 @@
 - [Materiaal](https://docs.materiaal.cc/readme.md): Materiaal
 - [Calendar](https://docs.materiaal.cc/calendar.md): Date
 - [Media](https://docs.materiaal.cc/media.md): Download official Materiaal logos and icons for use in media, partnerships, and other communications.
+
+## Disciplines
+
+- [Cyclocross](https://docs.materiaal.cc/disciplines/cyclocross/readme.md): Use the My Cycling Vlaanderen portal to register for cyclocross races in Belgium, typically C1 and C2 races, and manage your rider details. You must be known to Cycling Vlaanderen to sign in.

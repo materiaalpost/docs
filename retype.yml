@@ -34,6 +34,28 @@ theme:
     header-links-dropdown-offset: -1rem
     base-color: "#F26B26"
 
+actions:
+  items:
+    - text: Copy page
+      action: copy-page-markdown
+      icon: copy
+    - text: Copy link
+      action: copy-page-link
+      icon: link
+    - type: separator
+    - text: View as Markdown
+      action: view-page-markdown
+      icon: markdown
+    - text: Print page
+      action: print-page
+      icon: brand-printer
+    # - type: separator
+    # - type: separator
+    # - text: Edit on GitHub
+    #   icon: mark-github
+    #   action: edit-on-github
+    #   target: blank
+
 breadcrumb:
   home: ":icon-home:" # icon
 

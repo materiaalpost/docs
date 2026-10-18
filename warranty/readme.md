@@ -61,7 +61,7 @@ Normal wear, deterioration from ordinary use, routine servicing, and replacement
 
 For an approved defect claim, Materiaal will repair or replace the affected wheel or component at no charge, including:
 
-- Parts and Materiaal-approved labour needed to restore safe function
+- Parts and Materiaal-approved labor needed to restore safe function
 - Standard shipping in both directions
 
 We may arrange work through a local service shop or dealer. Get our approval before starting work for reimbursement.
@@ -79,7 +79,7 @@ We cover structural or functional damage from:
 - [x] Riding, racing, potholes, and debris
 - [x] Transport, travel, and flight baggage handling
 - [x] Roof-rack accidents, storage, and handling
-- [x] Dogs who thought "carbon fibre" was a flavour
+- [x] Dogs who thought "carbon fiber" was a flavor
 
 The manufacturing-defect warranty's intended-use conditions do not restrict this benefit. We assess the condition, identity, and remaining coverage, and may request photographs, video, or a physical inspection. Claims meeting the published eligibility requirements are covered, subject to the [exclusions and evidence-based abuse provisions](#exclusions-and-fair-use).
 
@@ -112,10 +112,10 @@ There is no preset limit on eligible paid incidents during the accidental damage
 We first assess whether a return is necessary or a suitable local service shop or dealer can do the work. Photos and video may be sufficient.
 
 Replacement
-: The incident fee includes an assembled replacement wheel, necessary parts, and assembly labour. If the original is unavailable, we will discuss a comparable or better replacement with you.
+: The incident fee includes an assembled replacement wheel, necessary parts, and assembly labor. If the original is unavailable, we will discuss a comparable or better replacement with you.
 
 Approved local repair
-: We agree the work, cost, and any use of the free incident with you before work begins. A repair under the free incident includes authorised parts and labour. For a paid incident, we discuss the repair option(s) before you decide.
+: We agree the work, cost, and any use of the free incident with you before work begins. A repair under the free incident includes authorized parts and labor. For a paid incident, we discuss the repair option(s) before you decide.
 
 Return
 : Wait for our instructions before shipping. If required for accidental damage, you pay shipping and import charges to the service location we specify. We pay standard shipping back to you.
@@ -134,7 +134,7 @@ See [shipping and taxes](#shipping-and-taxes) for costs and [replacement standar
 ### Shipping details
 
 Before you ship
-: Materiaal arranges or authorises standard shipping for a necessary manufacturing-defect assessment. We confirm the service route and any owner-paid costs before requesting a shipment.
+: Materiaal will arrange or authorize standard shipping for a necessary manufacturing-defect assessment. We confirm the service route and any owner-paid costs before requesting a shipment.
 
 Shipments to you
 : Materiaal covers all standard shipments under this policy, including duties, taxes, brokerage, and cross-border charges, except the purchase taxes below.
@@ -198,7 +198,7 @@ Materiaal maintains replacement-parts stock for ten years from each wheel's orig
 
 If a required original part is unavailable, we will provide a comparable or better replacement and discuss its compatibility and any required changes with you before proceeding.
 
-Parts and approved labour for covered claims are included. Ordinary maintenance and other work outside coverage are quoted for approval before work begins.
+Parts and approved labor for covered claims are included. Ordinary maintenance and other work outside coverage are quoted for approval before work begins.
 
 ## Exclusions and fair use
 

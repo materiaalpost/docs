@@ -1,9 +1,5 @@
 # Race Ready Limited Warranty and Replacement
 
-!!!
-This is a draft version of the Materiaal **Race Ready Limited Warranty and Replacement** policy, and is subject to change.
-!!!
-
 The Materiaal **Race Ready Limited Warranty and Replacement** policy covers manufacturing defects and provides no fault accidental damage support for genuine Materiaal wheels. Coverage follows the wheel, with longer terms for the original purchaser. Replacement parts are supported for ten years.
 
 **No registration required.** This applies to the original purchaser and every subsequent lawful owner.

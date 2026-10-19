@@ -6,6 +6,7 @@
 - [Calendar](https://docs.materiaal.cc/calendar.md): Date
 - [Media](https://docs.materiaal.cc/media.md): Download official Materiaal logos and icons for use in media, partnerships, and other communications.
 - [Sponsorship opportunities](https://docs.materiaal.cc/sponsorship/readme.md): We back athletes and teams who will put Materiaal wheels to work. The goals are simple:
+- [Race Ready Limited Warranty and Replacement](https://docs.materiaal.cc/warranty/readme.md): The Materiaal Race Ready Limited Warranty and Replacement policy covers manufacturing defects and provides no fault accidental damage support for genuine Materiaal wheels.
 
 ## Disciplines
 

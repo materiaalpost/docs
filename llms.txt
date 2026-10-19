@@ -1,13 +1,13 @@
-﻿# Materiaal
+﻿# Behind the wheels
 
-> This documentation will grow alongside Materiaal. For now, it provides a simple home for essential information and official brand assets.
+> Warranty support, sponsorship opportunities, and official brand assets from Materiaal.
 
-- [Materiaal](https://docs.materiaal.cc/readme.md): Materiaal
-- [Calendar](https://docs.materiaal.cc/calendar.md): Date
+- [Behind the wheels](https://docs.materiaal.cc/readme.md): Behind the wheels
+- [Calendar](https://docs.materiaal.cc/calendar.md): One or more Materiaal athletes will be at the following races. If you're at the race, keep an look out for Materiaal wheels and send your cheers!
 - [Media](https://docs.materiaal.cc/media.md): Download official Materiaal logos and icons for use in media, partnerships, and other communications.
 - [Sponsorship opportunities](https://docs.materiaal.cc/sponsorship/readme.md): We back athletes and teams who will put Materiaal wheels to work. The goals are simple:
 - [Race Ready Limited Warranty and Replacement](https://docs.materiaal.cc/warranty/readme.md): The Materiaal Race Ready Limited Warranty and Replacement policy covers manufacturing defects and provides no fault accidental damage support for genuine Materiaal wheels.
 
-## Disciplines
+## Racing
 
-- [Cyclocross](https://docs.materiaal.cc/disciplines/cyclocross/readme.md): Use the My Cycling Vlaanderen portal to register for cyclocross races in Belgium, typically C1 and C2 races, and manage your rider details. You must be known to Cycling Vlaanderen to sign in.
+- [Cyclocross](https://docs.materiaal.cc/racing/cyclocross/readme.md): Use the My Cycling Vlaanderen portal to register for cyclocross races in Belgium, typically C1 and C2 races, and manage your rider details.

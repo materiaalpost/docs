@@ -66,5 +66,9 @@ toc:
   label: On this page
   depth: 2-4
 
+outbound:
+  exclude:
+    - materiaal.cc
+
 footer:
   copyright: "&copy; Copyright {{ year }}. Materiaal, Inc. All rights reserved."

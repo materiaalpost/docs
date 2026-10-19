@@ -1,6 +1,6 @@
 # Sponsorship opportunities
 
-We back athletes and teams who will put Materiaal wheels to work. The goals are simple:
+We back [athletes](https://materiaal.cc/pages/athletes) and teams who will put Materiaal wheels to work. The goals are simple:
 
 >>> Race hard
 >>> Provide honest feedback

@@ -49,9 +49,9 @@ Would you like to test Materiaal wheels before committing to sponsorship? Please
 - [x] **Race hard.** Put the wheels to work in training and competition. They are built for the demands of racing.
 - [x] **Provide honest feedback.** Tell us what works, what doesn't, and what you would change to help us build better wheels
 - [x] **Represent yourself professionally.** Treat fellow riders, race officials, volunteers, and supporters with respect, on and off the course.
-- [x] **Treat the materiaal :wink: with respect.** Keep the wheels maintained, follow setup instructions, and report problems promptly.
+- [x] **Treat the materiaal :wink: with respect.** Keep the wheels maintained, follow setup instructions, and let us know about any issues promptly.
 - [x] **Ride Materiaal exclusively.** Use Materiaal wheels for training and racing in the disciplines and seasons we agree to sponsor.
-- [x] **Work with us patiently and professionally.** If something goes wrong, we work together on a solution.
+- [x] **Work with us patiently and professionally.** If something goes wrong, we'll work together to find a solution.
 
 For individual non-elite athletes, there are **no social media requirements**. A small (or no) social media following will not count against your sponsorship application. Any elite athlete or team commitments are agreed on before the sponsorship begins.
 

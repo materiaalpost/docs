@@ -76,3 +76,8 @@ outbound:
 
 footer:
   copyright: "&copy; Copyright {{ year }}. Materiaal, Inc. All rights reserved."
+
+lastUpdated:
+  date:
+    enabled: true
+    source: committer

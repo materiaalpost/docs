@@ -1,15 +1,16 @@
 ---
 label: Sponsorship
-icon: people
+icon: person-add
 ---
 # Sponsorship opportunities
 
 We back athletes and teams who will put Materiaal wheels to work. The goals are simple:
 
-- [x] Race hard
-- [x] Provide honest feedback
-- [x] Represent yourself professionally
-- [x] Help us build better wheels
+>>> Race hard
+>>> Provide honest feedback
+>>> Represent yourself professionally
+>>> Help us build better wheels
+>>>
 
 ## Sponsorship levels
 
@@ -32,7 +33,7 @@ Don't see the wheels you need in [our current](https://materiaal.cc/collections/
 
 ### Working with a team
 
-The team manages its wheel allocations amongst its riders, keeps track of the wheels, and provides one main point of contact. We agree on wheel requirements and service arrangements together. If a rider leaves, their wheels stay with the team for reassignment or eventual return to Materiaal, Inc.
+The team manages its wheel allocations amongst its riders, keeps track of the wheels, and provides one main point of contact. We agree on wheel requirements and service arrangements together. If a rider leaves, the wheels they were using stay with the team for reassignment or eventual return to Materiaal, Inc.
 
 ## What we ask
 

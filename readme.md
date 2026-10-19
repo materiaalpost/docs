@@ -8,4 +8,4 @@ We build wheels for racers and stand behind them. Find warranty details, sponsor
 
 ![](/static/media/materiaal-docs-hero.jpeg)
 
-Need a hand? Email [hello@materiaal.cc](mailto:hello@materiaal.cc)
+How can we help? Email [hello@materiaal.cc](mailto:hello@materiaal.cc)

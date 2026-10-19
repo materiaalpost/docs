@@ -34,6 +34,10 @@ theme:
     header-links-dropdown-offset: -1rem
     base-color: "#F26B26"
 
+backlinks:
+  exclude:
+    - /README.md
+
 actions:
   items:
     - text: Copy page

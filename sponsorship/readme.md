@@ -22,9 +22,9 @@ See the [Your sponsored wheels](#your-sponsored-wheels) section for renewal and 
 | Individual or team | XCO MTB | TBD |
 | Individual or team | Track | TBD |
 
-We can tailor each allocation to your requirements and are happy to help you choose the wheels that best suit your racing goals.
+Each sponsorship agreement is tailored to the athlete or team, including the wheel allocation and any other requirements.
 
-We supply your wheelsets with freehubs compatible with your drivetrain configuration.
+We supply your wheelsets with freehubs compatible with your drivetrain configuration and are happy to help choose the Materiaal wheels that best suit your racing goals.
 
 Don't see the wheels you need in [our current](https://materiaal.cc/collections/all) range? Please [get in touch](#get-in-touch) as we may have wheels in development or be able to develop a wheelset specifically for your requirements. Riders in other disciplines are welcome to get in touch, too. We will do our best to assist.
 
@@ -32,11 +32,11 @@ Don't see the wheels you need in [our current](https://materiaal.cc/collections/
 
 The team manages its wheel allocations amongst its riders, keeps track of the wheels, and provides one main point of contact. We agree on wheel requirements and service arrangements together. If a rider leaves, their wheels stay with the team for reassignment or eventual return to Materiaal, Inc.
 
-## Costs and fees
+## No costs or fees
 
-We provide Materiaal sponsored athletes and teams with wheels **at no cost** for use during their sponsorship.
+We provide sponsored athletes and teams with wheels **at no cost** for use during their sponsorship.
 
-Materiaal also covers delivery and return costs for sponsored wheels, including shipments for repairs and replacements.
+Materiaal also covers delivery and return costs for sponsored wheels, including for required repairs and replacements.
 
 Whether you are a Junior just starting to race internationally, a full Continental road team, or an Elite privateer taking on the world, we're here to help.
 
@@ -53,15 +53,15 @@ Would you like to test Materiaal wheels before committing to sponsorship? Please
 - [x] **Ride Materiaal exclusively.** Use Materiaal wheels for training and racing in the disciplines and seasons we agree to sponsor.
 - [x] **Work with us patiently and professionally.** If something goes wrong, we work together on a solution.
 
-For individual athletes, there are **no social media posting requirements**. A small or no social media following will not count against your sponsorship application. Any additional team commitments are discussed before the sponsorship begins.
+For individual non-elite athletes, there are **no social media requirements**. A small (or no) social media following will not count against your sponsorship application. Any elite athlete or team commitments are agreed on before the sponsorship begins.
 
 With your permission, we’ll feature you on our [Athletes page](https://materiaal.cc/pages/athletes) and capture photos and videos of you racing for use on our website, social media and other marketing channels.
 
 ## Support when something goes wrong
 
-Sponsored wheels receive support under the [Materiaal Race Ready Limited Warranty](/warranty/readme.md) policy, with additional sponsorship benefits:
+Sponsored athletes and teams receive the full [Materiaal Race Ready Limited Warranty](/warranty/readme.md) coverage. Any fees, charges, or limits in that policy do not apply to your sponsored wheels during your sponsorship term. You are covered.
 
-During your sponsorship term, eligible accidental damage repairs and replacements have **no product charge and no preset limit on incidents**. You will have full no-fault repair or replacement support.
+If a sponsored wheel is accidentally damaged, we'll repair or replace the wheel or its components at no cost to you, as often as needed during your sponsorship.
 
 If a wheel is damaged, stop using it and contact us with photos and the wheel ID or rim barcode. We will work to resolve the issue quickly, keep you informed, and do our absolute best to minimize disruption to your racing.
 

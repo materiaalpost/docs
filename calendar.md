@@ -1,6 +1,6 @@
 # Calendar
 
-One or more Materiaal [athletes](https://materiaal.cc/pages/athletes) will be at the following races. If you're at the race, keep an look out for Materiaal wheels and send your cheers!
+One or more Materiaal [athletes](https://materiaal.cc/pages/athletes) will be at the following races. If you're at the race, keep a look out for Materiaal wheels and send your cheers!
 
 ## Cyclocross
 

@@ -206,6 +206,7 @@ Parts and approved labor for covered claims are included. Ordinary maintenance a
 
 - Commercial rental or hire use
 - Loss or theft
+- Wheels with missing, altered, or unreadable identification, including wheel ID or bar code
 - Cosmetic-only damage that does not affect safe function
 - Deliberate damage caused to obtain a policy benefit
 - Third-party accessories such as tires, cassettes, and brake rotors

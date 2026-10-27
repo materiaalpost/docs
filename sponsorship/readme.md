@@ -17,9 +17,9 @@ See the [Your sponsored wheels](#your-sponsored-wheels) section for renewal and 
 {.clean .striped}
 | Rider or team | Discipline | Typical allocation |
 |---|---|---|
-| Team | Road | An allocation based on the team's disciplines, rider count, and race program. |
-| Individual | Cyclocross | 6 to 8 wheelsets, with a mix of tubular and tubeless. |
-| Individual | Gravel | 2 gravel wheelsets. |
+| Team | Road | An allocation based on the team's disciplines, rider count, and race program |
+| Individual | Cyclocross | 6 to 8 wheelsets, with a mix of tubular and tubeless available |
+| Individual | Gravel | 3 wheelsets, in a combo of 2 gravel + 1 road |
 | Individual or team | XCO MTB | TBD |
 | Individual or team | Track | TBD |
 

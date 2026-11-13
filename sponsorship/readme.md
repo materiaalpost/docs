@@ -12,6 +12,18 @@ We back [athletes](https://materiaal.cc/pages/athletes) and teams who will put M
 >>> Help us build better wheels
 >>>
 
+## What we're looking for
+
+Our sponsorship program is focused on riders and teams racing Materiaal wheels at UCI events, both domestically and internationally. World Cups and international UCI races are where we most want to see our wheels on the start line.
+
+{.clean .striped}
+| Your racing | Sponsorship focus |
+|---|---|
+| UCI racing, especially World Cups, continental races, international C1/C2 races, and other major events or series. | **Racing.** Your race program is the focus of the sponsorship. |
+| Other racing, amateur racing, and content creators. | **Social media.** We look at how you share your racing, riding, and story with your audience. |
+
+Not racing at UCI level? The focus of the sponsorship changes from your race program to social media, and we consider these sponsorship opportunities as they are presented. We're always open to a pitch if you have some creative ideas or big goals.
+
 ## Sponsorship levels
 
 We provide wheels for your use during an initial sponsorship term of up to two years. Ownership of the wheels remains with Materiaal, Inc. 
@@ -58,7 +70,7 @@ Would you like to test Materiaal wheels before committing to sponsorship? Please
 - [x] **Ride Materiaal exclusively.** Use Materiaal wheels for training and racing in the disciplines and seasons we agree to sponsor.
 - [x] **Work with us patiently and professionally.** If something goes wrong, we'll work together to find a solution.
 
-For individual non-elite athletes, there are **no social media requirements**. A small (or no) social media following will not count against your sponsorship application. Any elite athlete or team commitments are agreed on before the sponsorship begins.
+For individual non-elite athletes on a racing-focused sponsorship, there are **no social media requirements**. A small (or no) social media following will not count against your sponsorship application. For social media focused sponsorships, and for elite athletes and teams, any commitments are agreed on before the sponsorship begins.
 
 With your permission, we’ll feature you on our [Athletes page](https://materiaal.cc/pages/athletes) and capture photos and videos of you racing for use on our website, social media and other marketing channels.
 
